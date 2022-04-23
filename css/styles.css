@@ -42,9 +42,9 @@ background: -moz-linear-gradient(180deg,#ff9933 50%, #f84141 100%);
 }
 
 .container__content__box{
-	width: 50%;
-	margin-right: 20%;
-	margin-top: 5%;
+    width: 81%;
+    margin-right: 10%;
+    margin-top: 8%;
 	padding: 0.8em;
 	display: flex;
 	align-items: flex-end;
@@ -69,6 +69,9 @@ background: -moz-linear-gradient(180deg,#ff9933 50%, #f84141 100%);
 	text-align: justify;
 	margin-bottom: 10%;
 }
+.hidden{
+	font-weight: 1;	
+	}
 
 .container__content__button{
 width: 125px;
